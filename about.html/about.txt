@@ -1,0 +1,35 @@
+
+
+
+about.html:
+
+
+<head>
+ <title>BrandCoco - About</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BrandCoco</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>About Us</h2>
+        <p>BrandCoco is a leading clothing store offering a wide range of fashionable apparel for all ages. Our mission is to provide high-quality clothing at affordable prices.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 BrandCoco. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+

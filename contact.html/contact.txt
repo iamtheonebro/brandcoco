@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+contact.html : 
+
+
+<head>
+<title>BrandCoco - Contact Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BrandCoco</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Contact Us</h2>
+        <p>For any inquiries, please reach out to us at:</p>
+        <p>Email: support@brandcoco.com</p>
+        <p>Phone: 81876263</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 BrandCoco. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
